@@ -18,6 +18,6 @@ public class DemoCollectionArrayList {
         menu.add("Detail");
         menu.add("Menu");
 
-        x
+
     }
 }
